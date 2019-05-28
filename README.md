@@ -47,6 +47,7 @@ Apache Commons CSV
 [![Coverage Status](https://coveralls.io/repos/apache/commons-csv/badge.svg)](https://coveralls.io/r/apache/commons-csv)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.apache.commons/commons-csv/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.apache.commons/commons-csv/)
 [![Javadocs](https://javadoc.io/badge/org.apache.commons/commons-csv/1.6.svg)](https://javadoc.io/doc/org.apache.commons/commons-csv/1.6)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcommons-csv.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcommons-csv?ref=badge_shield)
 
 The Apache Commons CSV library provides a simple interface for reading and writing
 CSV files of various types.
@@ -104,3 +105,6 @@ Additional Resources
 + `#apache-commons` IRC channel on `irc.freenode.org`
 
 [ml]:https://commons.apache.org/mail-lists.html
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcommons-csv.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fcommons-csv?ref=badge_large)
